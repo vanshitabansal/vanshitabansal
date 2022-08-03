@@ -6,7 +6,7 @@
 - 📫 How to reach me, my email id: vanshitabansal24@gamil.com ...
 
 
-<a algin="center" href="https://www.linkedin.com/in/vanshita-bansal-a93a25162/">
+<a align="center" href="https://www.linkedin.com/in/vanshita-bansal-a93a25162/">
   <img height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png"/>
 </a>
 <a href="https://www.instagram.com/vans_b_8/">
