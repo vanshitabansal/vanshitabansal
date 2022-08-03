@@ -14,9 +14,7 @@
 <a href="https://twitter.com/VanshitaBansal">
   <img height="50" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png"/>
 </a>
-<a href="https://www.linkedin.com/in/vanshita-bansal-a93a25162/">
-  <img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png"/>
-</a>
+
 
 
 <!---
