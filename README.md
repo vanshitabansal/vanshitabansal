@@ -4,7 +4,7 @@
 - 🌱 I’m an ML and Deep Learning enthusiast 
 - 💞️ I’m looking for amazing opportunities to learn as well as show my skills 
 - 📫 How to reach me, my email id: vanshitabansal24@gmail.com 
--
+
 # 👨🏻‍💻  A Little Bit About Me and My Interests
 ```yaml
 
@@ -33,6 +33,18 @@ hobbies: ["Art","Playing Basketball", "Dance"]
 
 ```
 # 🚀  Some Tools I Have Used and Learned
+<p align="center">
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"/></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"/></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"/></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"/></a>
+<a><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/></a>
+</p>
+
+# 📫 Contact me through
 <p align="center">
 <a href="https://www.linkedin.com/in/vanshita-bansal-a93a25162/">
   <img height="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png"/>
