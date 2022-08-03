@@ -4,6 +4,8 @@
 - 🌱 I’m an ML and Deep Learning enthusiast 
 - 💞️ I’m looking for amazing opportunities to learn as well as show my skills 
 - 📫 How to reach me, my email id: vanshitabansal24@gmail.com 
+-
+# 👨🏻‍💻  A Little Bit About Me and My Interests
 ```yaml
 
 Name: Vanshita Bansal
