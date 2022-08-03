@@ -1,9 +1,9 @@
  # Hi there 👋
 - I’m @vanshitabansal!
 - 👀 I’m a Student, doing my MTech in CSE from IITG 
-- 🌱 I’m an ML and Deep Learning enthusiast ...
-- 💞️ I’m looking for amazing opportunities to learn as well as show my skills ...
-- 📫 How to reach me, my email id: vanshitabansal24@gamil.com ...
+- 🌱 I’m an ML and Deep Learning enthusiast 
+- 💞️ I’m looking for amazing opportunities to learn as well as show my skills 
+- 📫 How to reach me, my email id: vanshitabansal24@gmail.com 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vanshita-bansal-a93a25162/">
